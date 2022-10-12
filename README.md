@@ -20,3 +20,5 @@ Fractional scaling isn't really on the radar yet, but integer scaling will event
 New themes are going to happen eventually as a separate repository, but Suede itself will always default to Crux as the basic theme. On Fedora and Red Hat-like systems, it will default to Bluecurve if it's installed before Suede itself, and afterwards openSUSE, Slackware, Mageia/PCLinuxOS, and Debian/Ubuntu will all get themes of their own. There will eventually be a Qt 5 theme replicating GTK+, as well.
 
 Definitely on the radar but not the very first priority is to try to refactor it so that GCC doesn't scream at you.
+
+Wayland, at some point. Once it's better supported on ppc64[le|el|be|eb].
