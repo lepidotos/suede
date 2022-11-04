@@ -22,3 +22,5 @@ New themes are going to happen eventually as a separate repository, but Suede it
 Definitely on the radar but not the very first priority is to try to refactor it so that GCC doesn't scream at you.
 
 Wayland, at some point. Once it's better supported on ppc64[le|el|be|eb].
+
+Re-basing around GNOME 2.0 if it proves easier to work with. Not 2.x, 2.0 (and some elements of 2.2) specifically, as 2.0 was generally speaking a straightforward port of 1.4 to GTK+ 2, which modern Sawfish also uses.
